@@ -2,7 +2,7 @@
 
 ## Student Details
 - **Full Name:** `Nyi Nyi Zaw Zaw`
-- **CCID:** `1878468`
+- **CCID:** `nyinyiza`
 
 ## References and Resources
 `N/A` 
